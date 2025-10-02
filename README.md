@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aisha  
+# 👋 Hello
 
 🌱 I’m currently learning **C, C++, C#, Lua, Javascript**  
 💡 Interested in **MMORPG, Horror Games, and Competitive Programming**  
