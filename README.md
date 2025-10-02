@@ -15,15 +15,15 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lexiscandy2&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexiscandy2&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rain-8bit&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rain-8bit&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
 ## 🔥 Streak Stats
 <p>
-  <img src="https://streak-stats.demolab.com?user=lexiscandy2&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rain-8bit&theme=tokyonight" />
 </p>
 
 ---
