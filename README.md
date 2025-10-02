@@ -8,7 +8,7 @@
 
 ## 🚀 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,lua,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,lua,git,github,vscode" />
 </p>
 
 ---
@@ -29,6 +29,5 @@
 ---
 
 ## 📫 Connect with me
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 🐦 [Twitter](https://twitter.com/yourusername)
+- 🌐 [Instagram](https://www.instagram.com/rama.indrawangsa/)  
+
