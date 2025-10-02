@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aisha  
 
-🌱 I’m currently learning **C, C++, and Game Development**  
+🌱 I’m currently learning **C, C++, C#, Lua, Javascript**  
 💡 Interested in **MMORPG, Horror Games, and Competitive Programming**  
 ⚡ Fun fact: I love building things from scratch and experimenting with code  
 
